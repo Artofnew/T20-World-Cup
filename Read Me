@@ -1,1 +1,47 @@
-Here Is T20 World cup Summery Power Bi Services Link  - https://app.powerbi.com/groups/me/reports/bcab7b25-fc0a-4fee-8ae7-a01c727ee945/ReportSection?experience=power-bi&clientSideAuth=0
+Here Is T20 World cup Power Bi Services Link  - https://app.powerbi.com/groups/me/reports/bcab7b25-fc0a-4fee-8ae7-a01c727ee945/ReportSection?experience=power-bi&clientSideAuth=0
+   T20 world cup 2022
+Description: In this data we are going to learn about how to analysis of T20 World cup Data download on Kaggle this document is only for practicing of creating reports this is only a sample data set 
+1)  Data Connection 
+2)  Data Preparation 
+3)  Data Modelling and Analysis 
+4)  Data Visualization 
+5)  Report Sharing and distribution
+
+Data Cleaning and Preparation of data.
+Check all the data types and column names.
+Remove Comment And link column in All Tables
+Make sure the column names starting character is Capital letter. 
+Change the name of the columns.
+Match id
+Match Name
+
+Creating the Measures
+Create a Measure to calculate the No of Virat Kohli - Fours, Sixes, Best Score, Sixes by using Dax.
+Create a Measure to calculate the Hasaranga - Eco Rate, Maiden Over, Total Match, Total Wicket, Max Wicket by using Dax.
+Create Home Page All Butten – Overview, Home, Batsman, Bowler
+With Images
+
+Overview
+•	Create home Butten to navigate home page
+•	Make a Filter to showing Team Name
+•	Create cards to showing No of Matches, Run, Fours, Sixes
+•	Create Stacked column chart to showing match with decision
+•	Create table to showing Match Name, won toss, Decision ,1St inning Score, 2nd Inning Score, Winner 
+•	Create clustered bar chart to show won toss, venue and decision
+
+Batsman Page
+•	Create home Butten to navigate home page
+•	Create filter to showing Player Full name
+•	Create cards to showing No of Matches, Runs, Fours, Sixes
+T20 WORLDCUP Best Player PERFORMANCE 
+•	With no Changes with filter
+•	To Show Pics with Name, age, Match, Total Run, Avg Run, no of fours, Sixes and best Score 
+
+Bowler Page
+•	Create home Butten to navigate home page
+•	Make a Filter to showing Bowler Full Name.
+•	Create cards to showing No of Matches, Overs, Wickets, Maiden, Economy
+T20 WORLDCUP Best Player PERFORMANCE 
+•	T20 WORLDCUP Best Player PERFORMANCE With no changes with filter
+•	To Show Pics with Name, age, Match, Wicket, Eco Rate, Maiden, Max Wicket
+•	Make Table to Showing – Full Name, Overs, Runs, Wide Balls, Wickets
